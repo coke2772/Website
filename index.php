@@ -40,8 +40,8 @@ function loginForm(){
     <head>
         <meta charset="utf-8" />
 
-        <title>Tuts+ Chat Application</title>
-        <meta name="description" content="Tuts+ Chat Application" />
+        <title>DevChat</title>
+        <meta name="description" content="DevChat" />
         <link rel="stylesheet" href="style.css" />
     </head>
     <body>
@@ -115,7 +115,7 @@ function loginForm(){
 <?php
 }
 ?>
-Here is the code for post.php:
+
 
 <?php
 session_start();
